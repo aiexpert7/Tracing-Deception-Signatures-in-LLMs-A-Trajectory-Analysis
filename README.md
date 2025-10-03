@@ -7,7 +7,7 @@
 3. For the reproducing the results of the paper, you will need to run the code on a A100 GPUs with 80 GB memory.
 4. Refer dataset folder to choose a dataset option.
 5. scripts/collection scripts to collect trajectory data for 7b-132b models.
-6. 
+   a. the code snippets, allow you to chnage the distance metrcs, congiure GPUs, give a model name as input. 
 
 
 ## License
