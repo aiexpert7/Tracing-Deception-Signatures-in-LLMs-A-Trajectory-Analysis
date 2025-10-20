@@ -1,3 +1,5 @@
+"""Core trajectory capture and analysis"""
+
 from .trajectory_capture import TrajectoryCapture, CapturedTrajectory
 from .geometric_analysis import GeometricAnalyzer, GeometricFeatures, feature_names
 
